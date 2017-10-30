@@ -1,0 +1,19 @@
+{
+  "name": "logger",
+  "version": "0.0.1",
+  "description": "simple and powerful logger with Stream and console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "logger",
+    "nodejs"
+  ],
+  "author": "Kalan",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.19.1",
+    "request": "^2.83.0"
+  }
+}
